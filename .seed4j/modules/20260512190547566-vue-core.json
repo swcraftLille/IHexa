@@ -1,0 +1,11 @@
+{
+  "module": "vue-core",
+  "date": "2026-05-12T19:05:47.566817300Z",
+  "properties": {
+    "projectName": "IHexa",
+    "baseName": "ihexa",
+    "nodePackageManager": "npm",
+    "endOfLine": "lf",
+    "indentSize": 2
+  }
+}
