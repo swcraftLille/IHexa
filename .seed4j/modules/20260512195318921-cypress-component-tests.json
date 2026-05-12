@@ -1,0 +1,11 @@
+{
+  "module": "cypress-component-tests",
+  "date": "2026-05-12T19:53:18.921323800Z",
+  "properties": {
+    "projectName": "IHexa",
+    "nodePackageManager": "npm",
+    "indentSize": 2,
+    "baseName": "ihexa",
+    "endOfLine": "lf"
+  }
+}

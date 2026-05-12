@@ -1,0 +1,11 @@
+{
+  "module": "vue-router",
+  "date": "2026-05-12T20:07:48.108205Z",
+  "properties": {
+    "projectName": "IHexa",
+    "nodePackageManager": "npm",
+    "indentSize": 2,
+    "baseName": "ihexa",
+    "endOfLine": "lf"
+  }
+}
